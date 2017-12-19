@@ -1,0 +1,6 @@
+{
+    "require": {
+        "knplabs/knp-markdown-bundle": "^1.5",
+        "jms/serializer-bundle": "^2.0"
+    }
+}
